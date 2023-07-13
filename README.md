@@ -23,6 +23,7 @@ KUQSIM은 비전공자도 양자 컴퓨팅에 대해서 공부하고 연구할 �
 본 시뮬레이션은 
 
 ## Download
+[여기](https://github.com/KU-QML-temp/KUQSIM/releases)에서 Documentation을 포함한 가장 최신 버전을 다운받을 수 있습니다.
 
 ## Documentation
 - [PDF]()
@@ -32,7 +33,7 @@ KUQSIM은 비전공자도 양자 컴퓨팅에 대해서 공부하고 연구할 �
 
 KUQSIM은 XX 사업에서 지원 받아 [양자 기계학습 연구실](https://savanna.korea.ac.kr/~qml_lab/)의 QSIM 그룹인 [시스템최적화연구실(최인찬 교수님)](https://optlab.korea.ac.kr/) 및 [공급사슬 및 가치망 분석 연구실(정태수 교수님)](http://savanna.korea.ac.kr/wp/)에서 개발하였습니다.
 
-또한, KUQSIM은 **고려대학교 산학협력단 권리의 사유 소프트웨어(closed source software)**이며, 사용에 있어서 **실행가능 파일에서의 단순 사용만 허가되고, 이외(상업적 이용 및 역공학 등)에는 모두 허용되지 않습니다.**
+또한, KUQSIM은 고려대학교 산학협력단 권리의 사유 소프트웨어(closed source software)이며, 사용에 있어서 **실행가능 파일에서의 단순 사용만 허가되고, 이외(상업적 이용 및 역공학 등)에는 모두 허용되지 않습니다.**
 
 ## Contact
 
